@@ -3,12 +3,15 @@
  I'm a Cyber Security Enthusiast & a Software Engineer who is passionate about stuff like development and Ethical Hacking. Few tech that i enjoy working in are Python, JavaScript, Java & Kali Linux. I'm actively looking for opportunities and collaboration in projects related to Cyber Security and Software Engineering.❤✌
 <br/>
 ### Get In Touch:
-<a href="https://linkedin.com/in/ambros-rono-4b9281191">
+<!--<a href="https://linkedin.com/in/ambros-rono-4b9281191">
 <img align="left" alt="Ambros Rono" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.twitter.com/@rono_ambros/">
 <img align="left" alt="developer" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+</a>-->
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/@rono_ambros/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/ambros-rono-4b9281191)
+[<img src="https://img.shields.io/badge/-GMail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:ambroskipngeno@gmail.com)
 <br/>
 <br/>
 **Talking about Personal Stuffs:**
@@ -51,6 +54,7 @@
 
 ### Github Stats  🔝
 ![Ambros Rono github stats](https://github-readme-stats.vercel.app/api?username=ambrosrono&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambrosrono&layout=compact&theme=tokyonight)
 <br/>
 <br/>
 ### 🎮🕹 Fun Games 🔝
