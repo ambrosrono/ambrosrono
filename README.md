@@ -13,6 +13,7 @@
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/@rono_ambros/) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/ambros-rono-4b9281191)
 [<img src="https://img.shields.io/badge/-GMail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:ambroskipngeno@gmail.com)
+![](https://visitor-badge.glitch.me/badge?page_id=ambrosrono.ambrosrono)
 <br/>
 <br/>
 **Talking about Personal Stuffs:**
