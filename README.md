@@ -60,7 +60,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambrosrono&layout=compact&theme=tokyonight)
 <br/>
 <br/>
-📊 **this week i spent my time on:**
+📊 **This week I spent my time on:**
 <!--START_SECTION:-->
 ```text
 Node Js       8 hrs 18 mins  ███████████████████████▒░   92.80 % 
