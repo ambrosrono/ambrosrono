@@ -17,11 +17,11 @@
 **Talking about Personal Stuffs:**
 
 - 🔭 I'm currently learning on new technologies related to cyber security (also, I am brushing up my Ethical Hacking skills regularly)
-- 🌱 I’m currently learning everything... 🤣
+- 🌱 I’m currently learning Node Js, React Js, MonogoDB..
 - 👯 🤝I’m looking to collaborate with Senior Software Engineers and Information Security Specialist.
 - 😇 Pronouns: He/Him, Technologist.
 - 💬 Ask me about anything, Would love to answer them.✌ 
-- ⚡ Fun fact & Stats: There is a hacker attack every 39 seconds! || 95% of cybersecurity breaches are due to human error!
+- ⚡ Fun fact & Stats: Developers learn in a variety of ways.. || There is a hacker attack every 39 seconds! || 95% of cybersecurity breaches are due to human error!
 - 🌐 Visit <a href="https://ambrosrono.github.io/">My Portfolio Website</a> for complete background and contact.
 <br/>
 <br/>
@@ -41,6 +41,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/node/node.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
