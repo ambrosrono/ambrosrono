@@ -1,7 +1,8 @@
-### Hello World 👋 It's [Ambros Rono](https://linkedin.com/in/ambros-rono-4b9281191) 
+### Hello World <!--👋--><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> It's [Ambros Rono](https://linkedin.com/in/ambros-rono-4b9281191) 
 
- I'm a Cyber Security Enthusiast & a Software Engineer who is passionate about stuff like development and Ethical Hacking. Few tech that i enjoy working in are Python, JavaScript, Java & Kali Linux. I'm actively looking for opportunities and collaboration in projects related to Cyber Security and Software Engineering.❤✌
+ I'm a Cyber Security Enthusiast & a Software Engineer who is passionate about stuff like development and Ethical Hacking. Few tech that i enjoy working in are Python, JavaScript, Java & Kali Linux. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I'm actively looking for opportunities and collaboration in projects related to Cyber Security and Software Engineering.❤✌
 <br/>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 ### Get In Touch:
 <!--<a href="https://linkedin.com/in/ambros-rono-4b9281191">
 <img align="left" alt="Ambros Rono" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -57,6 +58,17 @@
 ### Github Stats  🔝
 ![Ambros Rono github stats](https://github-readme-stats.vercel.app/api?username=ambrosrono&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ambrosrono&layout=compact&theme=tokyonight)
+<br/>
+<br/>
+📊 **this week i spent my time on:**
+<!--START_SECTION:-->
+```text
+Node Js       8 hrs 18 mins  ███████████████████████▒░   92.80 % 
+JavaScript   1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+SCSS         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+JSON         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+```
+<!--END_SECTION:-->
 <br/>
 <br/>
 ### 🎮🕹 Fun Games 🔝
